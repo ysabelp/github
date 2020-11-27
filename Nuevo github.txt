@@ -1,2 +1,1 @@
-probando 
-esto es un pull request
+Probando, esto es un Pull Request.
